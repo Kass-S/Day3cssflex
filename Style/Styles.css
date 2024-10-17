@@ -1,4 +1,9 @@
 
+body
+{
+    background-color: cadetblue;
+}
+
 .flex-container
 {
     display: flex;
